@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Benjamín-Muñoz',
+    linkedin: 'Benjamín-Muñoz-Marqués',
     //twitter: 'arif_szn',
    // mastodon: 'arifszn@mastodon.social',
     //researchGate: '',
@@ -164,7 +164,7 @@ const CONFIG = {
     },
   ],*/
   // Display articles from your medium or dev account. (Optional)
-  blog: {
+  /*blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
@@ -178,7 +178,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'lofi',*/
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -240,14 +240,6 @@ const CONFIG = {
     },
   },
 
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
 
-  enablePWA: true,
-};
 
 export default CONFIG;
