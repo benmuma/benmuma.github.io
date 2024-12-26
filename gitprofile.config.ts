@@ -80,23 +80,16 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/benmuma/benmuma/raw/main/CV_Dec.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/benmuma/CV_benja/raw/main/CV_Dec.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Python',
+    'C/C++',
+    'VHDL',
+    'LaTeX',
+    'Matlab',
+    'Altium Designer',
+    'PSIM',
   ],
   experiences: [
     {
