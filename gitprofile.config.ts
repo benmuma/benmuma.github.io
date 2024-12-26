@@ -92,44 +92,58 @@ const CONFIG = {
     'PSIM',
   ],
   experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+        {
+      company: 'Faraday Rocketry UPV',
+      position: 'Avionics Engineer',
+      from: 'Nov 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.linkedin.com/company/faraday-rocketry-upv/posts/?feedView=all',
+    },
+        {
+      company: 'Energy Student',
+      position: 'Telecommunications Manager',
+      from: 'Sep 2023',
+      to: 'Sep 2024',
+      companyLink: 'https://www.linkedin.com/company/energy-student/posts/?feedView=all',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Energy Student',
+      position: 'Wind Energy Team Member',
+      from: 'Sep 2022',
+      to: 'Jul 2023',
+      companyLink: 'https://www.linkedin.com/company/energy-student/posts/?feedView=all',
+    },
+    {
+      company: 'Optimiza Tecnología S.L.',
+      position: 'Technical Solutions Assistant',
+      from: 'Mar 2021',
+      to: 'Jun 2021',
+      companyLink: 'https://optimizatecnologia.net/',
     },
   ],
-  certifications: [
+ /* certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
     },
-  ],
+  ],*/
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Florida Universitaria',
+      degree: 'Industrial and automatic electronic engineering',
+      from: '2021',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Florida Universitaria',
+      degree: 'Superior Module in Automation and Industrial Robotics',
+      from: '2019',
+      to: '2021',
     },
   ],
-  publications: [
+  /*publications: [
     {
       title: 'Publication Title',
       conferenceName: '',
@@ -148,7 +162,7 @@ const CONFIG = {
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
-  ],
+  ],*/
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
