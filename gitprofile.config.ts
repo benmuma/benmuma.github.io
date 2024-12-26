@@ -104,7 +104,14 @@ const CONFIG = {
       companyLink: 'https://optimizatecnologia.net/',
     },
   ],
-  certifications: [],
+  certifications: [
+    {
+      name: '',
+      body: '',
+      year: '',
+      link: '',
+    },
+  ],
   educations: [
     {
       institution: 'Florida Universitaria',
@@ -119,7 +126,23 @@ const CONFIG = {
       to: '2021',
     },
   ],
-  publications: [],
+  publications: [
+    {
+      title: '',
+      conferenceName: '',
+      journalName: '',
+      authors: '',
+      link: '',
+      description:''},
+    {
+      title: '',
+      conferenceName: '',
+      journalName: '',
+      authors: '',
+      link: '',
+      description:
+          '' },
+  ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
