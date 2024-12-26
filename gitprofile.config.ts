@@ -29,26 +29,9 @@ const CONFIG = {
       },
     },
     external: {
-      //header: 'My Projects',
+      //header: '',
       // To hide the `External Projects` section, keep it empty.
-     /* projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-      ],*/
+      projects: [],
     },
   },
   seo: {
@@ -58,10 +41,10 @@ const CONFIG = {
   },
   social: {
     linkedin: 'Benjamin-Muñoz',
-    //twitter: 'arif_szn',
-   // mastodon: 'arifszn@mastodon.social',
-    //researchGate: '',
-    /*facebook: '',
+    twitter: '',
+    mastodon: '',
+    researchGate: '',
+    facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
@@ -69,12 +52,12 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',*/
+    website: '',
     phone: '',
     email: 'mail.benjamu@gmail.com',
   },
@@ -121,14 +104,7 @@ const CONFIG = {
       companyLink: 'https://optimizatecnologia.net/',
     },
   ],
- /* certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],*/
+  certifications: [],
   educations: [
     {
       institution: 'Florida Universitaria',
@@ -143,9 +119,7 @@ const CONFIG = {
       to: '2021',
     },
   ],
-  publications: [
-   
-  ],
+  publications: [],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
