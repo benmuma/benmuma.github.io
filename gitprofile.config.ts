@@ -40,7 +40,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Benjamin-Muñoz',
+    linkedin: 'benjamin-muñoz',
     twitter: '',
     mastodon: '',
     researchGate: '',
